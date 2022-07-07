@@ -1,0 +1,22 @@
+h2 {
+    color: black;
+}
+
+.product-table {
+    border-collapse: separate;
+    border-spacing: 24px 0;
+    width: 100%;
+    text-align: left;
+    color: black;
+}
+
+td {
+    padding: 10px 0;
+}
+
+.restore-button {
+    margin: 12px;
+    width: fit-content;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px 0 rgb(0 0 0 / 15%);
+}
